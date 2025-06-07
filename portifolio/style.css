@@ -1,0 +1,150 @@
+/*Seletores*/
+header {
+    /*background-image: url("image/fundo-header.png");*/
+    background-color: #0f1113;
+    height: 120px;
+    margin: 20px 20px 20px 20px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: #171717;
+}
+
+footer {
+    background-color: #0f1113;
+    height: 77px;
+    clear: both;
+    margin: 0px 20px 10px 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-size: large;
+}
+
+a {
+    color: rgb(0, 204, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*IDS*/
+
+#logo {
+    padding: 20px 0px 0px 300px;
+    float: left;
+}
+
+#menu {
+    text-align: center;
+    padding: 50px 600px 0px 0px;
+    font-size: x-large;
+}
+
+#menu a {
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 0px 20px;
+}
+
+
+#menu a:hover {
+    color: #E37714;
+    -webkit-transition: 0.5s;
+
+}
+
+#social {
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+}
+
+#conteudo {
+    background-image: url(image/editing-1141505_1280.jpg);
+    height: 700px;
+    margin: 0px 0px 0px 20px;
+    float: left;
+    border-radius: 10px;
+}
+
+#projects {
+    padding: 40px 0px 0px 40px;
+    text-shadow: 1px 1px 1px #111111;
+}
+
+#fileira1 {
+    padding: 50px 40px 0px 40px;
+}
+
+#fileira2 {
+    padding: 50px 0px 0px 40px;
+}
+
+#conteudo2 {
+    height: 700px;
+    border-radius: 10px;
+    margin: 0px 20px 10px 1320px;
+    background-color: #db7316;
+
+}
+
+#titulo {
+    color: antiquewhite;
+    padding: 20px 0px 20px 0px;
+    background-color: #0f1113;
+    border-radius: 7px 7px 0px 0px;
+}
+
+#profile-photo {
+    margin: 20px 0px 0px 180px;
+}
+
+#myname {
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+
+}
+
+#about {
+    margin: 30px 30px 0px 30px;
+    color: #171717;
+}
+
+#footer {
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #E37714;
+    font-weight: bold;
+}
