@@ -1,4 +1,9 @@
 /*Seletores*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
 header {
     position: sticky;
@@ -7,13 +12,9 @@ header {
     /* Garante que o header fique acima de outros elementos */
 }
 
-/*
+
 footer {
     background-color: #191818;
-    height: 100px;
-    margin: 20px 0px 0px 0px;
-    text-align: center;
-    clear: both;
 }
 
 
@@ -91,16 +92,49 @@ footer {
     color: aliceblue;
 }
 
-#rodape {
-    background-color: #191818;
-    height: 100px;
-    margin: 50px 0px 0px 0px;
+/*class*/
+.body {
+    background-color: #0A0B0B;
 }
 
-#redes {
-    text-align: center;
+.footer-container {
+    width: 100%;
+    padding: 10px 30px 20px;
 }
 
-#links a {
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons a {
     text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+.social-icons a:hover {
+    background-color: #58440c;
+    border-radius: 50%;
+    -webkit-transition: 0.5s;
+}
+
+.creditos {
+    text-align: center;
+    color: #58440c;
+}
+
+/*Clientes*/
+.foto {
+    border-radius: 10px;
+    width: 160px;
+}
+
+.titulo-name {
+    color: #f1b71a;
+}
+
+.titulo-projeto {
+    color: #f1b71a;
+    text-align: center;
 }
