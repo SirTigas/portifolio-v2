@@ -75,10 +75,6 @@ footer {
     color: aliceblue;
 }
 
-#borda {
-    border-radius: 10px;
-}
-
 #proposta {
     color: aliceblue;
 }
@@ -93,6 +89,10 @@ footer {
 }
 
 /*class*/
+.borda {
+    border-radius: 10px;
+}
+
 .msg-titulo {
     animation: deslizar 1s ease-out forwards;
 }
@@ -128,6 +128,10 @@ footer {
 .body {
     background-color: #0A0B0B;
 
+}
+
+.videos {
+    text-align: center;
 }
 
 .footer-container {
