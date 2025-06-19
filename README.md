@@ -42,6 +42,6 @@ Ou acessar uma versão online se estiver hospedado no GitHub Pages ou outro serv
 ## 🤝 Contribuição
 
 Este é um projeto pessoal, mas sugestões são sempre bem-vindas!  
-Se quiser dar alguma ideia ou feedback, sinta-se à vontade para abrir uma *issue* 😉
+Se quiser dar alguma ideia ou feedback, sinta-se à vontade.
 
 ---
