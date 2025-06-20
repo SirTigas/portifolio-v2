@@ -36,8 +36,7 @@ O site foi construído com foco em responsividade, para funcionar bem em celular
 
 ## 🧪 Como Visualizar
 
-Você pode visualizar o site localmente abrindo o arquivo `index.html` no seu navegador 🌐  
-Ou acessar uma versão online se estiver hospedado no GitHub Pages ou outro serviço.
+Você pode acessar uma versão online hospedada no GitHub Pages: https://sirtigas.github.io/portifolio-v2/
 
 ## 🤝 Contribuição
 
