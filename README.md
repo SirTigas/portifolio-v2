@@ -38,9 +38,4 @@ O site foi construído com foco em responsividade, para funcionar bem em celular
 
 Você pode acessar uma versão online hospedada no GitHub Pages: https://sirtigas.github.io/portifolio-v2/
 
-## 🤝 Contribuição
-
-Este é um projeto pessoal, mas sugestões são sempre bem-vindas!  
-Se quiser dar alguma ideia ou feedback, sinta-se à vontade.
-
 ---
